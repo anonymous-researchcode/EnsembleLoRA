@@ -1,0 +1,11 @@
+wandb
+pytorch_lightning
+peft
+ray
+gurobipy
+pandas
+bitsandbytes
+scikit-learn
+transformers
+datasets
+adapters
